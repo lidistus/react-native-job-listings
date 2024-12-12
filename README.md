@@ -1,4 +1,4 @@
-![Top Orange Bar](top.png)
+![Logo](quicklogo.png)
 
 # React Native Job Listings Mobile Application
 
@@ -27,5 +27,3 @@ When approaching this application I wanted to make sure I understood my limitati
 - [React Native Paper](https://reactnativepaper.com/) - Used sparingly. Thought I would use it more.
 - [React Native Render HTML](https://meliorence.github.io/react-native-render-html/) - Super useful and had really good documentation.
 - [Axios](https://github.com/qiangmao/axios#readme) - Could of used the fetch() function but found this was a simpler approach to pulling down the API's data.
-
-![Bottom Orange Bar](bottom.png)
