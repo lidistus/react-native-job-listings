@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Job Listings Application",
-    "slug": "JobListingsApplication",
+    "name": "React Native Job Listings",
+    "slug": "ReactNativeJobListings",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
