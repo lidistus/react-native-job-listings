@@ -1,4 +1,4 @@
-![Logo](quicklogo.png)
+![Logo](logo.png)
 
 # React Native Job Listings Mobile Application
 
