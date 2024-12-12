@@ -117,7 +117,7 @@ function JobFetch() {
             <Text style={styles.modalTitleText}>{jobTitle}</Text>
             <Text style={styles.salaryText}><Text style={styles.salaryHighlight}>Salary: </Text>{jobSalary}</Text>
             <Divider style={styles.pageDivider}/>
-            <Text><RenderHTML contentWidth={width} tagsStyles={tagsStyles} source={{html: jobDescription}}/></Text>   
+            <Text style={{paddingBottom: 70}}><RenderHTML contentWidth={width} tagsStyles={tagsStyles} source={{html: jobDescription}}/></Text>   
             </View>
           </View>
 
