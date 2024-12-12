@@ -2,7 +2,7 @@
 
 # React Native Job Listings Mobile Application
 
-This app was created in response to myself being included in a second phase interview where all candidates were tasked with creating a mobile app using react native. Specific instructions were given which I have included below.
+This app was created for a second phase interview where all candidates were tasked with creating a mobile app using react native. Specific instructions were given which I have included below.
 
 # Goals & Objectives
 
